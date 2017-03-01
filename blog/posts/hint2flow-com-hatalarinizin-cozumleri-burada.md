@@ -1,0 +1,2 @@
+
+Artık kod yazarken takıldığınız hataları girip çözüm bulabileceğiniz bir forum-blog karşımı site yayında. [www.hint2flow.com](http://www.hint2flow.com)   Benimde symfony2 ile ilgili hata çözümlerini yaptığım sitedir.Kayıtlar davetiye üzerinden alınmaktadır.Ve sonsuza kadar böyle alınacaktır.Davetiye için iletişime geçiniz : calicagatay@outlook.com

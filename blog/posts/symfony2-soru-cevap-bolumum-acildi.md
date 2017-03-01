@@ -1,0 +1,2 @@
+
+Bildiğiniz üzere symfony'i başkalarına öğretmek için forum,blog,soru cevap siteleri hazırlıyorum.En son olarak kendi bloğumun sub-domain'i üzerine bir soru cevap sitesi hazırladım.Sorularınızı veya sorunlarınızı direkt olarak sorabilir ve cevabınızı alabilirsiniz. <http://soru-cevap.cagataycali.me/>

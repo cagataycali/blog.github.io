@@ -1,0 +1,2 @@
+
+Merhaba arkadaşlar, Aylardır emek verdiğim ve hali hazırda kendimi ve bilgilerimi geliştirdiğim süreçte bildiklerimi blog yazılarım ile paylaşıyorum.Daha detaylı bilgi edinmek isteyen kişiler için bir kitap yazmaya başladım.Bildiklerimi daha detaylı bir şekilde kitaba işliyorum. Gitbook platformunu kulanarak yazıyorum. Bir adet kahve almam için ve daha detaylı bilgi için sizde bağış yapın! <http://symfony.gitbooks.io/tr/>

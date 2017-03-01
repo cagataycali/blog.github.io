@@ -1,0 +1,2 @@
+
+Bildiğiniz üzere symfony2 ile ilgili Türkiye de henüz bir topluluk forumu bulunmamakta. Nacizane kendi imkanlarımla kurmuş olduğum foruma konu ile ilgili bilgi sahibi insanları bekliyorum. Bilgi paylaştıkça çoğalır arkadaşlar herkesin desteğini bekliyorum.   [www.symfonyturkiye.com](http://www.symfonyturkiye.com)
